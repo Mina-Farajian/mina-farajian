@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-##Table of contents
+## Table of contents
 ------------------------------------------
 Terraform samples
 Bash scripts
