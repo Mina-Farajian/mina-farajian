@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## Table of contents
-------------------------------------------
+
 Terraform samples
 Bash scripts
 CI/CD integration of jenkins + kubernetes
